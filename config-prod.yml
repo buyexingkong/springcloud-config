@@ -1,1 +1,3 @@
-config:prod
+config:
+ info:   prod-env
+
